@@ -1,0 +1,72 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Noto Serif Georgian', serif;
+    scroll-behavior: smooth;
+    background-image: url('5.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.head h1{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    text-shadow: 3px 3px #906d4d;
+    /* background-color: #b97757;  */
+    margin: 2px;
+    /* width:20%; */
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    border-radius: 30px;
+    font-size: 45px;
+    margin-bottom: 0px;
+    /* box-shadow: inset 5px 5px 5px #272f36,
+        inset -5px -5px 5px #fff9f9; */
+}
+.description {
+    
+    margin-right: 80px;
+    margin-top:0px;
+    font-size: 20px;
+    width: 50%;
+    padding-bottom: 50px;
+}
+.description p{
+    
+    /* margin-right: 80px;
+    margin-top:0px; */
+    font-size: 25px;
+    /* width: 50%;
+    padding-bottom: 50px; */
+}
+.recipe{
+    
+    margin-right: 80px;
+    margin-top:50px;
+    font-size: 20px;
+}
+.link{
+    
+    margin-right: 80px;
+    margin-top:0px;
+    font-size: 20px;
+}
+.main{
+    display:flex;
+    width: 100%;
+    min-height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.spline{
+    width: 50%;
+    height: 500px;
+
+}
+span{
+    color: rgb(60, 41, 41);
+    font-weight: 900;
+}
